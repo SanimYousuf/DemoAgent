@@ -113,7 +113,7 @@ ollama pull qwen2.5:0.8b
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contribution Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions! Please send us mail via sanimyousuf02@gmail.com for details.
 
 
 This README provides both technical documentation and user-friendly guidance.
