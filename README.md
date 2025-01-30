@@ -72,7 +72,8 @@ The web interface will automatically open in your default browser at `http://loc
    - Recommended actions
    - Downloadable report
 
-![Analysis Demo](https://via.placeholder.com/600x300.png?text=Medical+Analysis+Demo)
+![Screenshot (5)](https://github.com/user-attachments/assets/347d2957-0357-404f-b128-c252b63727e0)
+
 
 ### 2. Health Chatbot 💬
 1. Open "Health Chatbot" tab
